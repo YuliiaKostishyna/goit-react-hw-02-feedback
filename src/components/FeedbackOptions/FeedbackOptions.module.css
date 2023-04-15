@@ -1,0 +1,15 @@
+button {
+    padding: 10px 15px;
+    transition: background, 2s;
+}
+button:hover,
+button:focus {
+    background-color: blue;
+   
+}
+
+.buttonClick {
+    display: flex;
+    gap: 20px;
+    border: 2px;
+}
